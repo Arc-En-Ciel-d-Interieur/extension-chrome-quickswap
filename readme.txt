@@ -31,6 +31,3 @@ Comme cette extension n'est pas encore sur le Chrome Web Store, voici comment l'
 - `background.js` : Gestion du menu contextuel et communication.
 - `content.js` : Script injecté pour modifier le DOM de la page.
 - `icon.png` : Identité visuelle de l'outil.
-
----
-*Développé avec soin pour faciliter les tests de design rapide.*
