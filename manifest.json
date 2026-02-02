@@ -4,9 +4,9 @@
   "version": "2.0",
   "description": "Modifiez instantanément images, titres et textes sur n'importe quel site.",
   "icons": {
-    "16": "image-swapper-16x16.png",
-    "48": "image-swapper-48x48.png",
-    "128": "image-swapper-128x128.png"
+    "16": "16x16.png",
+    "48": "48x48.png",
+    "128": "128x128.png"
   },
   "permissions": ["contextMenus", "activeTab", "scripting"],
   "background": {
